@@ -22,7 +22,7 @@ const NAmericaShow = () => {
       countryName: "Canada",
       demographics: "The major ethnic groups are Canadian (32.3%), English (18.3%), Scottish (13.9%), French (13.6%), Irish (13.4%), German (9.6%), Chinese (5.1%), Italian (4.6%), North American Indian (4.4%), East Indian (4%), and other ethinic groups (51.6%) in Canada.",
       language: "The most spoken language of Canada is English.",
-      festivals: "Some prominent festivals are Québec Winter Carnival, Winterlude, and Pacific Rim Whale Festival",
+      festivals: "Some prominent festivals are Québec Winter Carnival, Winterlude, and Pacific Rim asdfkljkl;ds Whale Festival",
       sources: "Index Mundi, iExplore",
     }
   ];
