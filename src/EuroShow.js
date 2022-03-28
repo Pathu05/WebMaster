@@ -15,7 +15,7 @@ const EuroShow = () => {
       countryName: "Germany",
       demographics: "The major ethnic groups are German (86.3%), Turkish (1.8%), Polish (1%), Syrian (1%), Romanian(1%), and other ethnic groups (8.9%) in Germany.",
       language: "The official language of Germany is German.",
-      festivals: "Some prominent festivals are the Bruchsal Asparagus Festival, the Dresden Music Festival, and Oktoberfest.",
+      festivals: "Some prominent festivals are the Bruchsal Asparagus Festival, the Dresden Music Festival, and Oktoberfest. kkkk",
       sources: "Index Mundi, iExplore",
     },
     {
