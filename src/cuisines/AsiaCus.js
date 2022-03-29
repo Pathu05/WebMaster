@@ -32,7 +32,7 @@ const AsiaCus = () => {
       <div className="row row-no-gutter">
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
           <p className="cusSubText homeLeft">Bobotie</p>
-          <p className="cusDesText homeLeft">Bobotie is a popular dish from South Africa. Major Ingredients - Ground Beef, Bread, Chutney</p>
+          <p className="cusDesText homeLeft">Bobotie is a popular dish frkom South Africa. Major Ingredients - Ground Beef, Bread, Chutney</p>
           <p className="sourceHomeText homeLeft">Sources - Allrecipes</p>
         </div>
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
