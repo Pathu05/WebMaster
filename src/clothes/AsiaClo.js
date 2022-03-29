@@ -23,7 +23,7 @@ const AsiaClo = () => {
           <p className="desHomeText homeLeft">A traditional wear of India worn by women is called a Sari. A Sari is a garment made of silk and cotton</p>
         </div>
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-          <img src="https://pixnio.com/free-images/2017/09/09/2017-09-09-07-04-57.jpg" className="img-responsive img-right img-full-width" width="100%" height="100%"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Sari.jpg" className="img-responsive img-right img-full-width" width="100%" height="100%"/>
         </div>
       </div>
       
