@@ -3,11 +3,9 @@ import {Link} from "react-router-dom";
 const ExHall = () => {
   return (
     <>
-      <div className="exTitle">
-        <p className="exTitleText">Exhibition Hall</p>
-      </div>
-      <div className="exClass">
-        <p className="exClassText">Explore a Continent</p>
+      <div className="contentTitleText musPageImg">
+        <p className="contText1">Exhibition Hall</p>
+        <p className="contText2">Explore a Continent</p>
       </div>
       <div>
         <Link to="/namerica-s">

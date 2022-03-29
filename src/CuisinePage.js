@@ -3,12 +3,11 @@ import {Link} from "react-router-dom";
 const CuisinePage = () => {
   return (
     <>
-      <div className="exTitle">
-      <h1>Cuisines</h1>
+      <div className="contentTitleText cusPageImg">
+        <p className="contText1">Cuisines</p>
+        <p className="contText2">Explore a Continent</p>
       </div>
-      <div className="exClass">
-      <h3>Explore a Continent</h3>
-      </div>
+
       <div>
         <Link to="/namerica-c">
           <button className="c1">North America</button>
